@@ -15,3 +15,6 @@ What I have learned :
 - Seeing a project from beginning to end.
 
 - Sharpened my abilites to seach online for resources and problem solving.
+
+Live Demo :
+https://this-is-alan.github.io/etch-a-sketch/
